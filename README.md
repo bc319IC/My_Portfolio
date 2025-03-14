@@ -25,8 +25,7 @@ Welcome to my GitHub profile! As an aspiring **Data Scientist**, I enjoy uncover
 - [Exploratory_Data_Analysis-Customer_Loans_in_Finance](https://github.com/bc319IC/Exploratory_Data_Analysis-Customer_Loans_in_Finance) - End-to-End Exploratory Data Analysis (EDA) Process of a dataset on customers loans.
 - [Invertible-Neural-Networks-for-Imaging-FYP](https://github.com/bc319IC/Invertible-Neural-Networks-for-Imaging-FYP) - Thesis research report mainly based on 2 invertible neural network architectures: [WINNET](https://github.com/bc319IC/WINNET) and [RWNN](https://github.com/bc319IC/RWNN).
 
-
-- [All repositories](https://github.com/bc319IC?tab=repositories)
+- All repositorise can be found [here](https://github.com/bc319IC?tab=repositories)
 
 ---
 
