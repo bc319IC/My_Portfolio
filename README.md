@@ -18,14 +18,14 @@ Welcome to my GitHub profile! As an aspiring **Data Scientist**, I enjoy uncover
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bc319IC&layout=donut&theme=radical)
 
-## Repositories
+## Key Repositories
 
 - [Modelling_Airbnbs_Property_Listing_Dataset](https://github.com/bc319IC/Modelling_Airbnbs_Property_Listing_Dataset) - Development of an end to end pipeline for creating machine learning models for both regression and classification, including neural networks to predict on the airbnb dataset.
 - [Multinational_Retail-Data_Centralisation](https://github.com/bc319IC/Multinational_Retail-Data_Centralisation) - Development of a star schema for the data of a multinational company starting from the extraction of data from different sources, cleaning the data, and then uploading to a local database for querying.
 - [Exploratory_Data_Analysis-Customer_Loans_in_Finance](https://github.com/bc319IC/Exploratory_Data_Analysis-Customer_Loans_in_Finance) - End-to-End Exploratory Data Analysis (EDA) Process of a dataset on customers loans.
 - [Invertible-Neural-Networks-for-Imaging-FYP](https://github.com/bc319IC/Invertible-Neural-Networks-for-Imaging-FYP) - Thesis research report mainly based on 2 invertible neural network architectures: [WINNET](https://github.com/bc319IC/WINNET) and [RWNN](https://github.com/bc319IC/RWNN).
 
-- All repositorise can be found [here](https://github.com/bc319IC?tab=repositories)
+- All repositorise can be found [here](https://github.com/bc319IC?tab=repositories).
 
 ---
 
