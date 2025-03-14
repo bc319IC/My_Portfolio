@@ -16,7 +16,7 @@ Welcome to my GitHub profile! As an aspiring **Data Scientist**, I enjoy uncover
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bc319IC&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bc319IC&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/bc319IC/github-readme-stats)
 
 ## Key Repositories
 
