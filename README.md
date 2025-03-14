@@ -28,14 +28,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** who
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bc319IC&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bc319IC&layout=compact&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bc319IC&layout=donut)](https://github.com/bc319IC/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bc319IC)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bc319IC&layout=donut&theme=radical)
 
 ---
 
