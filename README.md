@@ -10,7 +10,7 @@ Welcome to my GitHub profile! As an aspiring **Data Scientist/Analyst**, I enjoy
 ## Tools & Technologies  
 - **Programming**: Python, SQL, C++, MATLAB, Julia, Lua,Verilog, and LaTeX.
 - **Data Visualization**: Matplotlib, Seaborn, Scipy, and Statsmodels. 
-- **Machine Learning**:  TensorFlow (Keras), PyTorch, Scikit-learn, Torch, Torchvision.
+- **Machine Learning**:  TensorFlow (Keras), PyTorch, Scikit-learn, Torch, and Torchvision.
 
 ---
 
