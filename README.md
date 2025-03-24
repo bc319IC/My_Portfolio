@@ -1,5 +1,5 @@
 # Hi, I’m Brandon Cann!
-Welcome to my GitHub profile! As an aspiring **Data Scientist**, I enjoy uncovering insights from raw data and developing practical solutions. I'm always eager to take on new challenges, experiment with fresh ideas, and collaborate on meaningful projects.
+Welcome to my GitHub profile! As an aspiring **Data Scientist/Analyst**, I enjoy uncovering insights from raw data and developing practical solutions. I'm always eager to take on new challenges, experiment with fresh ideas, and collaborate on meaningful projects.
            
 ---
 
@@ -8,9 +8,9 @@ Welcome to my GitHub profile! As an aspiring **Data Scientist**, I enjoy uncover
 - **Data Analytics and Visualisation**: Data Mining and Preprocessing followed by visualisation to uncover meaningful insights from raw data.
 
 ## Tools & Technologies  
-- **Programming**: Python, SQL, C++, MATLAB, Julia, Lua, and Verilog  .
-- **Data Visualization**: Matplotlib and Seaborn. 
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, and Keras.
+- **Programming**: Python, SQL, C++, MATLAB, Julia, Lua,Verilog, and LaTeX.
+- **Data Visualization**: Matplotlib, Seaborn, Scipy, and Statsmodels. 
+- **Machine Learning**:  TensorFlow (Keras), PyTorch, Scikit-learn, Torch, Torchvision.
 
 ---
 
@@ -40,5 +40,6 @@ Welcome to my GitHub profile! As an aspiring **Data Scientist**, I enjoy uncover
 
 - UK Table Tennis (UKTT) Level 1 Coach, Badminton enthusiast.
 - Into gaming and PC building.
+- Enjoys Home Cooking and trying new foods.
 
 I appreciate you stopping by! Browse through my repositories, star your favorites, and let’s connect to work on something exciting together!
